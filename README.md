@@ -86,9 +86,10 @@ return 0;
 
 
 ## OUTPUT
-```c
--rwxr-xr-x    1 root     root         18376 Apr 17 14:20 text.o
-```
+
+![Screenshot from 2024-04-27 08-53-45](https://github.com/MeethaPrabhu/Linux-File-IO-Systems-locking/assets/119401038/e28501d3-7e26-44e6-94a6-6a7010865d6b)
+
+![Screenshot from 2024-04-27 08-54-58](https://github.com/MeethaPrabhu/Linux-File-IO-Systems-locking/assets/119401038/82adaddb-ebee-4d92-9fe4-1eb66f7bfb93)
 
 
 
